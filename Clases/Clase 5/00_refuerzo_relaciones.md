@@ -122,7 +122,7 @@ Cuando una relación **puede no existir**, se agrega el rango mínimo 0.
 - *Un proyecto puede no tener profesores asignados aún, o tener varios*
 
 **Cardinalidad:**
-0..N : 0..M
+0..N : N..M
 
 **Bidireccionalidad:**
 
